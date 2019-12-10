@@ -1,0 +1,289 @@
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe.config
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.pdb
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\CSCore.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\NAudio.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\CSCore.xml
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\NAudio.xml
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csprojAssemblyReference.cache
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.ResolveComReference.cache
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.JMCAudioPlayer.resources
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.Properties.Resources.resources
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.GenerateResource.cache
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CoreCompileInputs.cache
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CopyComplete
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.exe
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.pdb
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe.config
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.pdb
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\NAudio.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\NAudio.xml
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\Interop.WMPLib.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csprojAssemblyReference.cache
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\Interop.WMPLib.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.ResolveComReference.cache
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.JMCAudioPlayer.resources
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.Properties.Resources.resources
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.GenerateResource.cache
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CoreCompileInputs.cache
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CopyComplete
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.exe
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayer\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.pdb
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csprojAssemblyReference.cache
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.ResolveComReference.cache
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.exe
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.pdb
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe.config
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.pdb
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\bin\Debug\NAudio.dll
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\bin\Debug\NAudio.xml
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.JMCAudioPlayer.resources
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.Properties.Resources.resources
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.GenerateResource.cache
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CopyComplete
+C:\Users\student\Documents\JMCMediaPLayerV2\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.LoginRegister.resources
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe.config
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.pdb
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\NAudio.dll
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\NAudio.xml
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csprojAssemblyReference.cache
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.ResolveComReference.cache
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.JMCAudioPlayer.resources
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.LoginRegister.resources
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.Properties.Resources.resources
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.GenerateResource.cache
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CopyComplete
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.exe
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.pdb
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\MetroFramework.dll
+C:\Users\student\Documents\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csprojAssemblyReference.cache
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.ResolveComReference.cache
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.exe
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.pdb
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe.config
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.pdb
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\MetroFramework.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.JMCAudioPlayer.resources
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.LoginRegister.resources
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.Properties.Resources.resources
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.GenerateResource.cache
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CoreCompileInputs.cache
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CopyComplete
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\Lib\mpv-1.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\MediaPlayerUI.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\Mpv.NET.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\MpvPlayerUI.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV3\JMCMediaPLayer\bin\Debug\Mpv.NET.pdb
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csprojAssemblyReference.cache
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\obj\Debug\Interop.WMPLib.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.ResolveComReference.cache
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.exe
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.pdb
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.JMCAudioPlayer.resources
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.LoginRegister.resources
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.GenerateResource.cache
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.Properties.Resources.resources
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CoreCompileInputs.cache
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\Lib\mpv-1.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe.config
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.pdb
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\MediaPlayerUI.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\MetroFramework.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\MetroFramework.Fonts.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\Mpv.NET.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\MpvPlayerUI.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\Mpv.NET.pdb
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\Interop.WMPLib.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CopyComplete
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\BouncyCastle.Crypto.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\EntityFramework.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\Google.Protobuf.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\MySql.Data.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\Renci.SshNet.dll
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\EntityFramework.xml
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\Google.Protobuf.xml
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\MySql.Data.xml
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\JMCMediaPLayerV4\JMCMediaPLayer\bin\Debug\Renci.SshNet.xml
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe.config
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.pdb
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\BouncyCastle.Crypto.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\EntityFramework.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Google.Protobuf.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MediaPlayerUI.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MetroFramework.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MetroFramework.Fonts.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Mpv.NET.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MpvPlayerUI.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MySql.Data.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Renci.SshNet.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\EntityFramework.xml
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Google.Protobuf.xml
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Mpv.NET.pdb
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MySql.Data.xml
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Renci.SshNet.xml
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Interop.WMPLib.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\AxInterop.WMPLib.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csprojAssemblyReference.cache
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.exe.config
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\Interop.WMPLib.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\AxInterop.WMPLib.dll
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.ResolveComReference.cache
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.JMCAudioPlayer.resources
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.LoginRegister.resources
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.Properties.Resources.resources
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.GenerateResource.cache
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CoreCompileInputs.cache
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CopyComplete
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.exe
+D:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.pdb
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe.config
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.pdb
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\BouncyCastle.Crypto.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\EntityFramework.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Google.Protobuf.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MediaPlayerUI.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MetroFramework.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Mpv.NET.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MySql.Data.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Renci.SshNet.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\EntityFramework.xml
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Google.Protobuf.xml
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Mpv.NET.pdb
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MySql.Data.xml
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Renci.SshNet.xml
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\Interop.WMPLib.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\AxInterop.WMPLib.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csprojAssemblyReference.cache
+E:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\Interop.WMPLib.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\AxInterop.WMPLib.dll
+E:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.ResolveComReference.cache
+E:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.JMCAudioPlayer.resources
+E:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.LoginRegister.resources
+E:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.Properties.Resources.resources
+E:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.GenerateResource.cache
+E:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CoreCompileInputs.cache
+E:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CopyComplete
+E:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.exe
+E:\JMCMediaPLayerV5\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.pdb
+E:\JMCMediaPLayerV5\JMCMediaPLayer\bin\Debug\MetroFramework.Design.dll
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe.config
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.pdb
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\BouncyCastle.Crypto.dll
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Google.Protobuf.dll
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\MetroFramework.Design.dll
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\MetroFramework.dll
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\MySql.Data.dll
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Renci.SshNet.dll
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Google.Protobuf.xml
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\MySql.Data.xml
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Renci.SshNet.xml
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Interop.WMPLib.dll
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\AxInterop.WMPLib.dll
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csprojAssemblyReference.cache
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\Interop.WMPLib.dll
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\AxInterop.WMPLib.dll
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.ResolveComReference.cache
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.JMCAudioPlayer.resources
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.LoginRegister.resources
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.Properties.Resources.resources
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.GenerateResource.cache
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CoreCompileInputs.cache
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CopyComplete
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.exe
+D:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.pdb
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe.config
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.pdb
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\BouncyCastle.Crypto.dll
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Google.Protobuf.dll
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\MetroFramework.Design.dll
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\MetroFramework.dll
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\MySql.Data.dll
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Renci.SshNet.dll
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Google.Protobuf.xml
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\MySql.Data.xml
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Renci.SshNet.xml
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Interop.WMPLib.dll
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\AxInterop.WMPLib.dll
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csprojAssemblyReference.cache
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\Interop.WMPLib.dll
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\AxInterop.WMPLib.dll
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.ResolveComReference.cache
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.JMCAudioPlayer.resources
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.LoginRegister.resources
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.Properties.Resources.resources
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.GenerateResource.cache
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CoreCompileInputs.cache
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CopyComplete
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.exe
+E:\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.pdb
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csprojAssemblyReference.cache
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.ResolveComReference.cache
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.exe
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.pdb
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe.config
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.exe
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\JMCMediaPLayer.pdb
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\MetroFramework.Design.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\MetroFramework.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\MySql.Data.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Renci.SshNet.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\MySql.Data.xml
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Renci.SshNet.xml
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.JMCAudioPlayer.resources
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.LoginRegister.resources
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.Properties.Resources.resources
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.GenerateResource.cache
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CoreCompileInputs.cache
+C:\Users\30004895\OneDrive - TAFE\Documents\AT3 Project\JMCMediaPLayerV5 - Copy\JMCMediaPLayer\obj\Debug\JMCMediaPLayer.csproj.CopyComplete

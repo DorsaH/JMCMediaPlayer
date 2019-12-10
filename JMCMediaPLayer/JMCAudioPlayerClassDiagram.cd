@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JMCMediaPLayer.JMCAudioPlayer">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAiABYAGSMABBJgQCCIwAGIgACACLgEADQARBIQgI=</HashCode>
+      <FileName>JMCAudioPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JMCMediaPLayer.LoginRegister">
+    <Position X="3.75" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>JEgAGAAURCAABABJEQCgAgEKAEAIAAAAEQDAAQAIAkA=</HashCode>
+      <FileName>LoginRegister.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JMCMediaPLayer.User">
+    <Position X="7.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAQAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JMCMediaPLayer.MediaFile">
+    <Position X="7.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>MediaFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JMCMediaPLayer.HashComputer">
+    <Position X="7.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAABABAAAAAAAAQIAAAAAAAAQAAAAAgA=</HashCode>
+      <FileName>HashComputer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JMCMediaPLayer.Database">
+    <Position X="9.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAgAAAAAAIAAAAQAAAAgCAAAAAAAAAA=</HashCode>
+      <FileName>Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
