@@ -1,5 +1,5 @@
 ![](JMCMediaPLayer/hnet.com-image.ico)
-# JMCMediaPLayer 
+# JMC Media PLayer 
 
 	PROJECT SCOPE
 The aim of the JMC Media Player is to create a convenient and easy-to-use application for the staff members to login and manage media files with the software. The staff data will be stored in a database server. The application needs to be as light as possible so that it will have faster load time.
