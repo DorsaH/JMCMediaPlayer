@@ -5,9 +5,13 @@
 The aim of the JMC Media Player is to create a convenient and easy-to-use application for the staff members to login and manage media files with the software. The staff data will be stored in a database server. The application needs to be as light as possible so that it will have faster load time.
 The music player allows a user to play various media file formats. It can be used to play audio as well as video files. The music player is a software project supporting all known media files and has the ability to play them with ease.
 The project features are as follows:
+
 •	User may add multiple various media files within it.
+
 •	User may see track lists and play desired ones accordingly.
+
 •	Supports various music formats including .mp3, WMA, WAV etc.
+
 •	Interactive GUI
 •	Consists of Pause/Play/Stop Features
 •	Consists of a Volume controller
