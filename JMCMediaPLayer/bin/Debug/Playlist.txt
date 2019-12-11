@@ -1,3 +1,4 @@
-BTS - Boy In Luv,,D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\BTS - Boy In Luv.mp3
-BTS - Save ME,,D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\BTS - Save ME.mp3
-airplane01,,D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\AudioMotionGraphic\airplane01.wav
+BTS - Boy In Luv,,D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\TestMediafiles\BTS - Boy In Luv.mp3
+airplane01,,D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\TestMediafiles\airplane01.wav
+bell03,,D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\TestMediafiles\bell03.wav
+rain01,,D:\Tafe\Diploma of software Development\Stwart Csharp\Assessments\AT3 Project\TestMediafiles\rain01.wav
