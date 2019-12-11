@@ -1,5 +1,6 @@
 "# JMCMediaPLayer" 
-PROJECT SCOPE
+
+	PROJECT SCOPE
 The aim of the JMC Media Player is to create a convenient and easy-to-use application for the staff members to login and manage media files with the software. The staff data will be stored in a database server. The application needs to be as light as possible so that it will have faster load time.
 The music player allows a user to play various media file formats. It can be used to play audio as well as video files. The music player is a software project supporting all known media files and has the ability to play them with ease.
 The project features are as follows:
@@ -15,7 +16,7 @@ The project features are as follows:
 Readable GUI format with all clients have individual and secure log on to their account information.
 
 
-OVERALL DESCRIPTION
+	OVERALL DESCRIPTION
 
   PRODUCT PERSPECTIVE
 The software will have a login function for clients to login with username and password. Clients will be able to play media files and add them to playlist. The login information will be saved in a database.
@@ -39,8 +40,7 @@ Media file: Class containing properties for media files.
 User: class containing properties for users.
 
 	USER INTERFACE DESIGN
- 	 
+	
 
 The design has excellent features such as a dark modern theme and high-quality background pictures for a better presentation and visually appealing application. All the features are clearly visible and easy to find.
 The application is consist of two windows forms. When the application starts, it will connect to a database then a login form will be shown. Users can create a new account or use their username and password to login. The second form will appear after the login is approved and from there the client will be able to navigate through the media player and use the different features of the application.
-
