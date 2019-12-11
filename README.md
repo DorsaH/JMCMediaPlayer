@@ -44,3 +44,5 @@ User: class containing properties for users.
 
 The design has excellent features such as a dark modern theme and high-quality background pictures for a better presentation and visually appealing application. All the features are clearly visible and easy to find.
 The application is consist of two windows forms. When the application starts, it will connect to a database then a login form will be shown. Users can create a new account or use their username and password to login. The second form will appear after the login is approved and from there the client will be able to navigate through the media player and use the different features of the application.
+![LoginGUI](https://user-images.githubusercontent.com/19610431/70666566-de215a80-1ca9-11ea-8896-e43fe31bf9b4.JPG)
+![MediaPlayerGUI](https://user-images.githubusercontent.com/19610431/70666574-e083b480-1ca9-11ea-9def-2df01393533d.JPG)
