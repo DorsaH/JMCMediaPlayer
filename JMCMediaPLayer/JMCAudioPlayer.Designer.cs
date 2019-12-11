@@ -31,6 +31,7 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(JMCAudioPlayer));
             this.topPanel = new System.Windows.Forms.Panel();
+            this.lbJMCMediaPlayer = new System.Windows.Forms.Label();
             this.btnCloseForm = new System.Windows.Forms.Button();
             this.LbxMusics = new System.Windows.Forms.ListBox();
             this.btnVolum = new System.Windows.Forms.Button();
@@ -49,21 +50,32 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tbxSearch = new System.Windows.Forms.TextBox();
             this.btnSearch = new System.Windows.Forms.Button();
+            this.PlaylistMenuStrip = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.deleteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.topPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.PlaylistMenuStrip.SuspendLayout();
             this.SuspendLayout();
             // 
             // topPanel
             // 
             this.topPanel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.topPanel.Controls.Add(this.lbJMCMediaPlayer);
             this.topPanel.Controls.Add(this.btnCloseForm);
             resources.ApplyResources(this.topPanel, "topPanel");
             this.topPanel.Name = "topPanel";
             this.topPanel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.topPanel_MouseDown);
             this.topPanel.MouseMove += new System.Windows.Forms.MouseEventHandler(this.topPanel_MouseMove);
             this.topPanel.MouseUp += new System.Windows.Forms.MouseEventHandler(this.topPanel_MouseUp);
+            // 
+            // lbJMCMediaPlayer
+            // 
+            resources.ApplyResources(this.lbJMCMediaPlayer, "lbJMCMediaPlayer");
+            this.lbJMCMediaPlayer.BackColor = System.Drawing.Color.Transparent;
+            this.lbJMCMediaPlayer.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.lbJMCMediaPlayer.Name = "lbJMCMediaPlayer";
             // 
             // btnCloseForm
             // 
@@ -85,6 +97,7 @@
             this.LbxMusics.Name = "LbxMusics";
             this.LbxMusics.SelectedIndexChanged += new System.EventHandler(this.LbxMusics_SelectedIndexChanged);
             this.LbxMusics.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.LbxMusics_MouseDoubleClick);
+            this.LbxMusics.MouseDown += new System.Windows.Forms.MouseEventHandler(this.LbxMusics_MouseDown);
             // 
             // btnVolum
             // 
@@ -235,6 +248,22 @@
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
+            // PlaylistMenuStrip
+            // 
+            this.PlaylistMenuStrip.BackColor = System.Drawing.SystemColors.ControlDark;
+            this.PlaylistMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.deleteToolStripMenuItem});
+            this.PlaylistMenuStrip.Name = "PlaylistMenuStrip";
+            resources.ApplyResources(this.PlaylistMenuStrip, "PlaylistMenuStrip");
+            // 
+            // deleteToolStripMenuItem
+            // 
+            this.deleteToolStripMenuItem.BackColor = System.Drawing.Color.Gray;
+            resources.ApplyResources(this.deleteToolStripMenuItem, "deleteToolStripMenuItem");
+            this.deleteToolStripMenuItem.ForeColor = System.Drawing.Color.Black;
+            this.deleteToolStripMenuItem.Name = "deleteToolStripMenuItem";
+            this.deleteToolStripMenuItem.Click += new System.EventHandler(this.deleteToolStripMenuItem_Click);
+            // 
             // JMCAudioPlayer
             // 
             resources.ApplyResources(this, "$this");
@@ -256,9 +285,11 @@
             this.Name = "JMCAudioPlayer";
             this.Load += new System.EventHandler(this.JMCAudioPlayer_Load);
             this.topPanel.ResumeLayout(false);
+            this.topPanel.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer)).EndInit();
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.PlaylistMenuStrip.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -285,6 +316,9 @@
         private System.Windows.Forms.Button btnPrevious;
         private System.Windows.Forms.TextBox tbxSearch;
         private System.Windows.Forms.Button btnSearch;
+        private System.Windows.Forms.Label lbJMCMediaPlayer;
+        private System.Windows.Forms.ContextMenuStrip PlaylistMenuStrip;
+        private System.Windows.Forms.ToolStripMenuItem deleteToolStripMenuItem;
     }
 }
 
