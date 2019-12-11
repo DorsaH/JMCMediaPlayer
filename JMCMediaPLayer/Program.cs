@@ -16,7 +16,7 @@ namespace JMCMediaPLayer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new JMCAudioPlayer());
+            Application.Run(new LoginRegister());
         }
     }
 }
