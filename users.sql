@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 02, 2019 at 04:55 PM
+-- Generation Time: Dec 11, 2019 at 05:59 PM
 -- Server version: 10.1.39-MariaDB
 -- PHP Version: 7.3.5
 
@@ -29,12 +29,18 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `users` (
-  `UserID` int(11) NOT NULL AUTO_INCREMENT,
   `username` text,
   `password` text,
   `salt` text
-  PRIMARY KEY (Personid)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `users`
+--
+
+INSERT INTO `users` (`username`, `password`, `salt`) VALUES
+('JMCAdmin', 'oz7b0jltoi8OS46TawPq5/tnaI1t9ZYsRZjRioGoIM8=', 'PGHLblt4GFgxw1U/dEyzQ8xQAIjfw3So8YlAxHbXIri/wkM2FoSBlg=='),
+('Dorsa Hemmati', 'SnX6AAQTvf2UrEuAHldtIVcnFKlGdqSDZdMcA3cnFSY=', 'J+cdB8YIrE47nje44EKo6cSdvA5OIRto9uQi/1raz5wSYjAL3hzhiw==');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
