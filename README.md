@@ -1,4 +1,4 @@
-![](JMCMediaPlayer/images%20JMCMainLOGO.png") 
+![](JMCMediaPLayer/hnet.com-image.ico) 
 # JMCMediaPLayer 
 
 	PROJECT SCOPE
