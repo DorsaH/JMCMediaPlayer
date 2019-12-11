@@ -22,18 +22,18 @@ namespace JMCMediaPLayer
         {
             InitializeComponent();
 
+            User adminUser = new User("JMCAdmin", "JMC2019");
+            users.Add(adminUser);
             //Checks the connection to the database. without connection users cannot use the application
             if (database.Connect() != true)
             {
-                MessageBox.Show("Could not connect to the server!" + "/r/n"+ "Please connect to the server and restart the application.");
-                btnLogIn.Enabled = false;
+                MessageBox.Show("Could not connect to the server!" + Environment.NewLine + "Please connect to the server and restart the application" + Environment.NewLine + "or login as admin.", "Connection Error");    
                 btnCreateAccount.Enabled = false;
-                txbUserName.Enabled = false;
-                txbPassword.Enabled = false;
                 txbUserNameCreate.Enabled = false;
                 txbPasswordCreate.Enabled = false;
 
             }    
+
         }
 
         Database database = new Database();
@@ -43,6 +43,7 @@ namespace JMCMediaPLayer
         private bool dragging = false;
         private Point startPoint = new Point(0, 0);
 
+        HashComputer hashComputer = new HashComputer();
         
         /// <summary>
         /// Method to find the user object form the users list by given User Id
@@ -90,11 +91,29 @@ namespace JMCMediaPLayer
         //Method for login button
         private void btnLogIn_Click(object sender, EventArgs e)
         {
+            string validateMessage;
             if (!(string.IsNullOrEmpty(txbUserName.Text)) && !(string.IsNullOrEmpty(txbPassword.Text)))
             {
-                string validateMessage;
-                //finds the user in the database
-                if(database.ValidateUser(txbUserName.Text, txbPassword.Text, out validateMessage))
+                //Loging in offlice with Admin user
+                if (txbUserName.Text == "JMCAdmin")
+                {
+                    User tempuser = (User)GetUser("JMCAdmin");
+                    bool validate = hashComputer.isPasswordMatch(txbPassword.Text, tempuser.Salt, tempuser.PasswordHash);
+                    if (validate)
+                    {
+                        MessageBox.Show("Password Matched" + Environment.NewLine + "Login as JMCAdmin");
+                        this.Hide();
+                        JMCAudioPlayer audioPlayerform = new JMCAudioPlayer();
+                        audioPlayerform.Show();
+                    }
+                    else
+                    {
+                        MessageBox.Show("Password did not match!");
+                        txbPassword.Clear();
+                    }
+                }
+                //Login in by finding the user in the database
+                else if (database.ValidateUser(txbUserName.Text, txbPassword.Text, out validateMessage))
                 {
                     MessageBox.Show(validateMessage);
                     this.Hide();
@@ -110,68 +129,69 @@ namespace JMCMediaPLayer
             }
             else
             {
-                MessageBox.Show("Please fill the username and password textboxes!");
+               MessageBox.Show("Please fill the username and password textboxes!");
             }
-                txbUserName.Clear();
-                txbPassword.Clear();
+             txbUserName.Clear();
+             txbPassword.Clear();
+
             
         }
-        //Method to create an account 
-        private void btnCreateAccount_Click(object sender, EventArgs e)
-        {
-            if (!(string.IsNullOrEmpty(txbUserNameCreate.Text)) && !(string.IsNullOrEmpty(txbPasswordCreate.Text)))
+            //Method to create an account 
+            private void btnCreateAccount_Click(object sender, EventArgs e)
             {
-                string tempUserId = txbUserNameCreate.Text;
-                User tempUser = database.GetUserFromDatabase(tempUserId);
-                // If method to prevent duplicate users
-                if (tempUser != null)
+                if (!(string.IsNullOrEmpty(txbUserNameCreate.Text)) && !(string.IsNullOrEmpty(txbPasswordCreate.Text)))
                 {
-                    MessageBox.Show("This user already exist!");
+                    string tempUserId = txbUserNameCreate.Text;
+                    User tempUser = database.GetUserFromDatabase(tempUserId);
+                    // If method to prevent duplicate users
+                    if (tempUser != null)
+                    {
+                        MessageBox.Show("This user already exist!");
+                    }
+                    else
+                    {
+                        User user = new User(txbUserNameCreate.Text, txbPasswordCreate.Text);
+                        users.Add(user);
+                        database.AddUser(user);
+                        txbPasswordCreate.Clear();
+                        txbUserNameCreate.Clear();
+                        MessageBox.Show("Account Created!");
+                    }
                 }
                 else
                 {
-                    User user = new User(txbUserNameCreate.Text, txbPasswordCreate.Text);
-                    users.Add(user);
-                    database.AddUser(user);
-                    txbPasswordCreate.Clear();
-                    txbUserNameCreate.Clear();
-                    MessageBox.Show("Account Created!");
+                    MessageBox.Show("Please fill the username and password textboxes!");
                 }
             }
-            else
+            //Method to close the form
+            private void btnCloseForm_Click(object sender, EventArgs e)
             {
-                MessageBox.Show("Please fill the username and password textboxes!");
-            }   
-        }
-        //Method to close the form
-        private void btnCloseForm_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
-
-        //Methods for moving the form by mouse
-        private void topPanel_MouseDown(object sender, MouseEventArgs e)
-        {
-            dragging = true;
-            startPoint = new Point(e.X, e.Y);
-        }
-        //Methods for moving the form by mouse
-        private void topPanel_MouseUp(object sender, MouseEventArgs e)
-        {
-            dragging = false;
-        }
-        //Methods for moving the form by mouse
-        private void topPanel_MouseMove(object sender, MouseEventArgs e)
-        {
-            if (dragging)
-            {
-                Point p = PointToScreen(e.Location);
-                Location = new Point(p.X - this.startPoint.X, p.Y - this.startPoint.Y);
+                Application.Exit();
             }
-        }
+
+            //Methods for moving the form by mouse
+            private void topPanel_MouseDown(object sender, MouseEventArgs e)
+            {
+                dragging = true;
+                startPoint = new Point(e.X, e.Y);
+            }
+            //Methods for moving the form by mouse
+            private void topPanel_MouseUp(object sender, MouseEventArgs e)
+            {
+                dragging = false;
+            }
+            //Methods for moving the form by mouse
+            private void topPanel_MouseMove(object sender, MouseEventArgs e)
+            {
+                if (dragging)
+                {
+                    Point p = PointToScreen(e.Location);
+                    Location = new Point(p.X - this.startPoint.X, p.Y - this.startPoint.Y);
+                }
+            }
 
 
-
+        
         #endregion
 
     }//end of class

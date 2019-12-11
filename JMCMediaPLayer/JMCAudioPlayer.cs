@@ -35,6 +35,7 @@ namespace JMCMediaPLayer
         public JMCAudioPlayer()
         {
             InitializeComponent();
+          
         }
 
         //Method to find a media file in the list and send out the object and index in the list
@@ -100,6 +101,33 @@ namespace JMCMediaPLayer
             }
         }
 
+        //Method to read the Playlist text file
+        public void ReadPlaylistFile()
+        {
+            try
+            {
+
+                TextReader reader = new StreamReader(@"Playlist.txt");
+                string[] seperator = new string[] { ",," };
+                // string array for file name and file path
+                string[] mediaInfoArray;
+                string line;
+                while ((line = reader.ReadLine()) != null)
+                {
+                    MediaFile tempMedia = new MediaFile();
+                    mediaInfoArray = line.Split(seperator, StringSplitOptions.None);
+                    tempMedia.FileName = mediaInfoArray[0];
+                    tempMedia.Path = mediaInfoArray[1];
+                    mediaFiles.Add(tempMedia);
+
+                }
+                populatelinkedMediafilePaths();
+            }
+            catch
+            {
+                MessageBox.Show("Could not load the playlist!");
+            }
+        }
 
         #region Form Methods
         //Method for loading the form
@@ -112,6 +140,9 @@ namespace JMCMediaPLayer
                 MessageBox.Show("Could not connect to the server!");
             }
             TrackBar.Value = 0;
+            ReadPlaylistFile();
+            LbxMusics.DataSource = mediaFiles;
+            
         }
 
         //Exit button to close the form
@@ -247,17 +278,20 @@ namespace JMCMediaPLayer
                 TrackBar.Maximum = (int)axWindowsMediaPlayer.Ctlcontrols.currentItem.duration;
                 timer.Start();
                 btnplay.BackgroundImage = Properties.Resources.pause;
+                toolTip.SetToolTip(btnplay, "Pause");
             }
             else if (axWindowsMediaPlayer.playState == WMPLib.WMPPlayState.wmppsPaused)
             {
                 timer.Stop();
                 btnplay.BackgroundImage = Properties.Resources.play;
+                toolTip.SetToolTip(btnplay, "Play");
             }
             else if (axWindowsMediaPlayer.playState == WMPLib.WMPPlayState.wmppsStopped)
             {
                 timer.Stop();
                 TrackBar.Value = 0;
                 btnplay.BackgroundImage = Properties.Resources.play;
+                toolTip.SetToolTip(btnplay, "Play");
             }
         }
         //Method to synchronize the trackbar with mediaplayer control 
@@ -338,7 +372,7 @@ namespace JMCMediaPLayer
         //Search button method to search for a media in the list
         private void btnSearch_Click(object sender, EventArgs e)
         {
-            if (String.IsNullOrEmpty(tbxSearch.Text))
+            if (String.IsNullOrEmpty(tbxSearch.Text)|| tbxSearch.Text == "Enter a media name to search")
                 MessageBox.Show("Enter a name to search");
             else
             {
@@ -396,6 +430,33 @@ namespace JMCMediaPLayer
                         PlaylistMenuStrip.Show(LbxMusics,e.Location);
                     }
                 }
+            }
+        }
+
+        //Method to save the playlist
+        private void btnSavePlaylist_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (mediaFiles != null)
+                {
+                    StreamWriter sw = File.CreateText("Playlist.txt");
+                    foreach (MediaFile media in mediaFiles)
+                    {
+                        sw.WriteLine(media.FileName + ",," + media.Path);
+                    }
+                    sw.Dispose();
+                    sw.Close();
+                    MessageBox.Show("Playlist was saved succesfully.");
+                }
+                else
+                {
+                    MessageBox.Show("Playlist is empty!");
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Playlist could not be saved! Please try again");
             }
         }
     }//end of class
