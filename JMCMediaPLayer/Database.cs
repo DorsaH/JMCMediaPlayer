@@ -58,6 +58,41 @@ namespace JMCMediaPLayer
             }
         }
 
+        //Method to search for a user in the database
+        public User GetUserFromDatabase(string username)
+        {
+            User foundUser;
+
+            try
+            {
+                conn.ConnectionString = connectionString;
+                conn.Open();
+                string query = "SELECT `username`, `password`, `salt` FROM `users` WHERE `username`= @username";
+                MySqlCommand statement = new MySqlCommand(query, conn);
+
+                statement.Parameters.AddWithValue("@username", username);
+                MySqlDataReader sqlDataReader = statement.ExecuteReader();
+                if (sqlDataReader.Read())
+                {
+                    string UsernameValue = sqlDataReader.GetString("username");
+                    string passwordValue = sqlDataReader.GetString("password");
+                    string saltValue = sqlDataReader.GetString("salt");
+                    foundUser = new User(UsernameValue, passwordValue);
+                    return foundUser;
+                }
+                else
+                {
+                    conn.Close();
+                    return null;
+
+                }
+            }
+            catch
+            {
+                return null;
+            }
+        }
+
         //Method to check if the username and password are correct
         public bool ValidateUser(string userName, string password, out string message)
         {
@@ -99,7 +134,8 @@ namespace JMCMediaPLayer
             }
             catch(MySqlException)
             {
-                throw ;
+                message = ("Something went Wrong!");
+                return false;
             }
 
 

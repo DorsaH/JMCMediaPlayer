@@ -27,12 +27,9 @@ namespace JMCMediaPLayer
         BindingList<MediaFile> mediaFiles = new BindingList<MediaFile>();
         //doubly linked list for media paths
         LinkedList<string> linkedMediafilePaths = new LinkedList<string>();
-        //list for 
+       
 
-        
-
-
-        //index for pointing at an element in the mediafiles list
+        //index for pointing at an element in the mediafiles list and playlist list box
         public int listboxindex = 0;
 
         public JMCAudioPlayer()
@@ -40,12 +37,10 @@ namespace JMCMediaPLayer
             InitializeComponent();
         }
 
-        //Method to find a media file in the list 
+        //Method to find a media file in the list and send out the object and index in the list
         public MediaFile GetMediaFile(string targetMediaPath, out int mediaFileIndex)
         {
-            object file = mediaFiles.SingleOrDefault(m => m.Path == targetMediaPath);
-            //FindIndex(m => m.FileName == targetMediaFile.FileName && m.Path == targetMediaFile.Path);
-
+            object file = mediaFiles.FirstOrDefault(m => m.Path == targetMediaPath);
             int index = mediaFiles.IndexOf((MediaFile)file); 
             if (file == null)
             {
@@ -59,7 +54,7 @@ namespace JMCMediaPLayer
             }
         }
 
-        //method to search for a media in the list
+        //method to linear search for a media in the list
         public int SearchMedia(string name)
         {
             int index;
@@ -69,8 +64,7 @@ namespace JMCMediaPLayer
                 if(mediaFiles[index].FileName.Equals(name, StringComparison.InvariantCultureIgnoreCase))
                 {
                     return index;
-                }
-                
+                }        
             }
             return -1;
         }
@@ -95,6 +89,7 @@ namespace JMCMediaPLayer
             }
             return list;
         }
+
         //Method to populate the mediapaths linked list 
         public void populatelinkedMediafilePaths()
         {
@@ -186,6 +181,7 @@ namespace JMCMediaPLayer
                 
 
                 LinkedListNode<string> selectedMedia = linkedMediafilePaths.Find(selectedFile.Path);
+                if(selectedMedia != null)
                 currentFilePath = selectedMedia.Value;
 
             }
@@ -193,9 +189,14 @@ namespace JMCMediaPLayer
         //Method for play Button Click
         private void play_Click(object sender, EventArgs e)
         {
-            if (axWindowsMediaPlayer.playState == WMPLib.WMPPlayState.wmppsPaused || axWindowsMediaPlayer.playState == WMPLib.WMPPlayState.wmppsStopped)
-            {        
+            if (axWindowsMediaPlayer.playState == WMPLib.WMPPlayState.wmppsPaused)
+            {
                 axWindowsMediaPlayer.Ctlcontrols.play();  
+            }
+            else if (axWindowsMediaPlayer.playState == WMPLib.WMPPlayState.wmppsStopped)
+            {
+                axWindowsMediaPlayer.URL = currentFilePath;
+                axWindowsMediaPlayer.Ctlcontrols.play();
             }
             else if(axWindowsMediaPlayer.playState == WMPLib.WMPPlayState.wmppsUndefined )
             {
@@ -357,8 +358,45 @@ namespace JMCMediaPLayer
         }
 
 
-        #endregion
 
-        
+        #endregion
+        //Method to delete a media from playlist by rigth clicking and choosing delete
+        private void deleteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MediaFile selectedFile = LbxMusics.SelectedItem as MediaFile;
+            if (selectedFile != null)
+            {
+                //gets the index of the file in the list
+                GetMediaFile(selectedFile.Path, out listboxindex);
+                //finds the node containing the target media to delete
+                LinkedListNode<string> selectedMedia = linkedMediafilePaths.Find(selectedFile.Path);
+                mediaFiles.RemoveAt(listboxindex);
+                linkedMediafilePaths.Remove(selectedMedia);
+                mediaFiles = InsertionSort(mediaFiles);
+                populatelinkedMediafilePaths();
+
+            }
+            else
+            {
+                deleteToolStripMenuItem.Enabled = false;
+            }
+        }
+
+        //Method to check if user rigth clicks on an item in the listbox
+        private void LbxMusics_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == System.Windows.Forms.MouseButtons.Right)
+            {
+                //gets the index of the right clicked item
+                listboxindex = LbxMusics.IndexFromPoint(e.Location);
+                {
+                    if (listboxindex != -1)
+                    {
+                        LbxMusics.SetSelected(listboxindex, true);
+                        PlaylistMenuStrip.Show(LbxMusics,e.Location);
+                    }
+                }
+            }
+        }
     }//end of class
 }//end of namespace
