@@ -63,29 +63,9 @@ namespace JMCMediaPLayer.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        public static System.Drawing.Bitmap _173858 {
-            get {
-                object obj = ResourceManager.GetObject("173858", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         public static System.Drawing.Bitmap erase_delete_remove_wipe_out_512 {
             get {
                 object obj = ResourceManager.GetObject("erase_delete_remove_wipe_out-512", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        public static System.Drawing.Bitmap JMCLOGO {
-            get {
-                object obj = ResourceManager.GetObject("JMCLOGO", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

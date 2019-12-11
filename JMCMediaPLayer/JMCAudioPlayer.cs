@@ -391,9 +391,6 @@ namespace JMCMediaPLayer
             }
         }
 
-
-
-        #endregion
         //Method to delete a media from playlist by rigth clicking and choosing delete
         private void deleteToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -427,7 +424,7 @@ namespace JMCMediaPLayer
                     if (listboxindex != -1)
                     {
                         LbxMusics.SetSelected(listboxindex, true);
-                        PlaylistMenuStrip.Show(LbxMusics,e.Location);
+                        PlaylistMenuStrip.Show(LbxMusics, e.Location);
                     }
                 }
             }
@@ -438,7 +435,7 @@ namespace JMCMediaPLayer
         {
             try
             {
-                if (mediaFiles != null)
+                if (mediaFiles.Count != 0)
                 {
                     StreamWriter sw = File.CreateText("Playlist.txt");
                     foreach (MediaFile media in mediaFiles)
@@ -458,6 +455,9 @@ namespace JMCMediaPLayer
             {
                 MessageBox.Show("Playlist could not be saved! Please try again");
             }
+
+            #endregion
+
         }
     }//end of class
 }//end of namespace
